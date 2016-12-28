@@ -1,2 +1,2 @@
 # cipo
-config,input,process,output
+config,input,process,output  cipo是一个表述算法的机制，可以很便捷地提出一个想法，并借助已经存在的资源快速实现其原型。为了解决复杂性问题，有必要通过一种机制完成对问题的描述。
